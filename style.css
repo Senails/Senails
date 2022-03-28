@@ -62,7 +62,7 @@ body #sites div {
   font-weight: 400;
   font-size: 40px;
   line-height: 26px;
-  color: #000000;
+  color: #FFFFFF;
 }
 body #sites div:hover {
   background: linear-gradient(-70deg, #66b6ff 50%, #f66a3e 50%);
